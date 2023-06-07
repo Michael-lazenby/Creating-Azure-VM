@@ -21,12 +21,12 @@ In this project I created a virtual machine in azure and tinkered<br />
 
 - Select "Virtual Machine" in the Azure portal and then select "create Azure virtual machine"
 - Fill in the required fields on the basics tab
-- Click "Review + Create"
+- Click "Review + create"
 - Click "Create" after the validation process
 - View Newely created VM in Network Watcher
 - Delete resource group to save credits after use
 <h1>Lab Summary</h1>
-<h2>Creating virtual machines</h2>
+<h2>Creating a virtual machine</h2>
 <p>
 The first step of this project was to create your first virtual machine. I did this by selecting "virtual machine" on the azure dashboard and then clicking create, another way to do this is by using the search bar and typing in "virtual machine" after that you can click on it and select "create"</p>
 <img src="https://i.imgur.com/YK94SIh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -34,9 +34,9 @@ The first step of this project was to create your first virtual machine. I did t
 
 <br />
 
-<h2>Wireshark installation and observation</h2>
+<h2>Filling out the basic information</h2>
 <p>
-Before I started the lab I installed Wireshark. I observed network traffic with Wireshark, and I was also able to filter ports by using the filter bar. For example, I filtered ICMP(Internet Control Message Protocol) and viewed traffic between my virtual machines when I sent ping requests to the Ubuntu VM. After sending one ping request I sent a continuous ping request to the Ubuntu VM.
+After clicking create the first page I was redirected to is the "basics" page, and this is where I filled out the information for my virtual machine. On this page I decided if I wanted to create a new resource group or add my virtual machine to an existing resource group. I also choose a region that was closet to me but I also noticed that not every service is avaliable in every resource group. After selecting the region I created a username and password for my virtual machine. Once I filled everything out I clicked "Review + create".
 </p>
 <br />
 
