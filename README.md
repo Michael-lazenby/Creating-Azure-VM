@@ -36,7 +36,7 @@ The first step of this project was to create your first virtual machine. I did t
 
 <h2>Filling out the basic information</h2>
 <p>
-After clicking create the first page I was redirected to is the "basics" page, and this is where I filled out the information for my virtual machine. On this page I decided if I wanted to create a new resource group or add my virtual machine to an existing resource group. I also choose a region that was closet to me but I also noticed that not every service is avaliable in every resource group. After selecting the region I created a username and password for my virtual machine. Once I filled everything out I clicked "Review + create". After clicking "Review + create" I had to make sure the virtual machine passed the validation, and once it passed the review I was able to officially create my virtual machine.
+After clicking "create virtual machine" I was redirected to the "basics" page, and this is where I filled out the information for my virtual machine. On this page I decided if I wanted to create a new resource group or add my virtual machine to an existing resource group. I also choose a region that was closet to me but I also noticed that not every service is avaliable in every resource group. After selecting the region I created a username and password for my virtual machine. Once I filled everything out I clicked "Review + create". After clicking "Review + create" I had to make sure the virtual machine passed the validation, and once it passed the review I was able to officially create my virtual machine.
 </p>
 <br />
 
