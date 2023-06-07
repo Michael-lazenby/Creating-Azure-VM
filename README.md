@@ -50,4 +50,4 @@ When a virtual machine is created in azure it also creates a virtual network, a 
 
 <br />
 <h2>Conclusion</h2>
-<p>This was a brief overview on how I created a virtual machine, and there are so many other things that can be configured to personalize the VM. If you would like to follow this guide please remember once you are done with a virtaul machine delete it because you will lose azure credit. The price of the virtaul machine is determined by the features you are needing for your particular setup. </p>
+<p>This was a brief overview on how I created a virtual machine, and there are so many other things that can be configured to personalize a virtual machine to suit your own needs. If you would like to follow this guide please remember once you are done with the virtaul machine please delete it because it does charge you azure credits. The price of the virtaul machine is determined by the features you are needing for your project. </p>
