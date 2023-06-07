@@ -5,7 +5,6 @@
 </p>
 
 <h1>Creating Azure virtual machines</h1>
-<br />
 
 
 
