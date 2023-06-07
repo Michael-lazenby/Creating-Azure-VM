@@ -25,7 +25,7 @@
 <h1>Lab Summary</h1>
 <h2>Creating a virtual machine</h2>
 <p>
-The first step of this project was to create your first virtual machine. I did this by selecting "virtual machine" on the azure dashboard and then clicking create, another way to do this is by using the search bar and typing in "virtual machine" after that you can click on it and select "create"</p>
+The first step of this project was to create a virtual machine. I did this by selecting "virtual machine" on the azure dashboard and then clicking create, another way to do this is by using the search bar and typing in "virtual machine" after that you can click on the virtual machine and select "create"</p>
 <img src="https://i.imgur.com/YK94SIh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
@@ -33,7 +33,7 @@ The first step of this project was to create your first virtual machine. I did t
 
 <h2>Filling out the basic information</h2>
 <p>
-After clicking "create virtual machine" I was redirected to the "basics" page, and this is the page where I filled out the information for my virtual machine. On this page I decided if I wanted to create a new resource group or add my virtual machine to an existing resource group. I also choose a region that was closet to me but I also noticed that not every service is avaliable in every resource group. After selecting the region I created a username and password for my virtual machine. After I filled all the required fields out I clicked "Review + create". After clicking "Review + create" I had to make sure the virtual machine passed the validation, and once it passed the review I was able to officially create my virtual machine.
+After clicking "create virtual machine" I was redirected to the "basics" page, and this is the page where I filled out the information for my virtual machine. I also decided if I wanted to create a new resource group or add my virtual machine to an existing resource group. I also choose a region, and I chose the closest region to me which was West US 3. After selecting the region I created a username and password for my virtual machine. After I filled all the required fields out I clicked "Review + create". After clicking "Review + create" It sent me to another page to the virtual machine passed validation, and once it passed the review I was able to officially create the virtual machine.
 </p>
 <br />
 
