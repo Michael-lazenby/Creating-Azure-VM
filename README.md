@@ -1,7 +1,7 @@
 
 
 <p align="center">
-<img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
+<img src="i.imgur.com/Bp7tRX1.png" alt="Azure"/>
 </p>
 
 <h1>Creating Azure virtual machines</h1>
