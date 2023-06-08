@@ -43,7 +43,7 @@ After clicking "create virtual machine" I was redirected to the "basics" page, a
 <h2>Virtual machine overview</h2>
 <p>
 When a virtual machine is created in azure it also creates a virtual network, a virtual NIC, and a Network Security Group. Once the virtual machine was set up I was able to view the VMs general information under the "Overviw" tab. The information in this tab is important for things like RDP and SSH.  </p>
-<img src="https://i.imgur.com/vbtVvOi.png" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/J9BB8fA.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
 
