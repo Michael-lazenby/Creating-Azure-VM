@@ -32,7 +32,7 @@ The first step of this project was to create a virtual machine. I did this by se
 
 <h2>Filling out the basic information</h2>
 <p>
-After clicking "create virtual machine" I was redirected to the "basics" page, and this is the page where I filled out the information for my virtual machine. I also decided if I wanted to create a new resource group or add my virtual machine to an existing resource group. I also choose a region, and I chose the closest region to me which was West US 3. After selecting the region I created a username and password for my virtual machine. After I filled all the required fields out I clicked "Review + create". After clicking "Review + create" It sent me to another page to the virtual machine passed validation, and once it passed the review I was able to officially create the virtual machine.
+After clicking "create virtual machine" I was redirected to the "basics" page, and this is the page where I filled out the information for my virtual machine. I also decided if I wanted to create a new resource group or add my virtual machine to an existing resource group. I also choose a region, and I chose the closest region to me which was West US 3. After selecting the region I created a username and password for my virtual machine. After I filled all the required fields out I clicked "Review + create". Which sent me to another page for validation which the virtual machine passed, and once it passed the review I was able to officially create the virtual machine.
 </p>
 <br />
 
@@ -50,4 +50,4 @@ When a virtual machine is created in azure it also creates a virtual network, a 
 
 <br />
 <h2>Conclusion</h2>
-<p>This was a brief overview on how I created a virtual machine, and there are so many other things that can be configured to personalize a virtual machine to suit your own needs. If you would like to follow this guide please remember once you are done with the virtaul machine please delete it because it does charge you azure credits. The price of the virtaul machine is determined by the features you are needing for your project. </p>
+<p>This was a brief overview on how I created a virtual machine, and there are so many other things that can be configured to personalize a virtual machine to suit your own needs. If you would like to follow this guide please remember once you are done with the virtaul machine please delete it because it does use your azure free credits. The price of the virtaul machine is determined by the features you are needing for your project. </p>
