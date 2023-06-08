@@ -25,7 +25,7 @@
 <h2>Creating a virtual machine</h2>
 <p>
 The first step of this project was to create a virtual machine. I did this by selecting "virtual machine" on the azure dashboard and then clicking create, another way to do this is by using the search bar and typing in "virtual machine" after that you can click on the virtual machine and select "create"</p>
-<img src="https://i.imgur.com/YK94SIh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MEegzVk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
@@ -37,7 +37,8 @@ After clicking "create virtual machine" I was redirected to the "basics" page, a
 <br />
 
 <p>
-<img src="https://i.imgur.com/SDL7FsW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/urNYnce.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/urNYnce.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 <h2>Virtual machine overview</h2>
