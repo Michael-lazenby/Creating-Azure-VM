@@ -24,7 +24,7 @@
 <h1>Lab Summary</h1>
 <h2>Creating a virtual machine</h2>
 <p>
-The first step of this project was to create a virtual machine. I did this by selecting "virtual machine" on the azure dashboard and then clicking create, another way to do this is by using the search bar and typing in "virtual machine" after that you can click on the virtual machine and select "create"</p>
+The first step of this project was to create a virtual machine. I did this by selecting "virtual machine" on the Azure dashboard and then clicking create, another way to do this is by using the search bar and typing in "virtual machine" and after that, you can click on the virtual machine and click "create".</p>
 <img src="https://i.imgur.com/MEegzVk.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
@@ -43,7 +43,7 @@ After clicking "create virtual machine" I was redirected to the "basics" page, a
 <br />
 <h2>Virtual machine overview</h2>
 <p>
-When a virtual machine is created in azure it also creates a virtual network, a virtual NIC, and a Network Security Group. Once the virtual machine was set up I was able to view the VMs general information under the "Overviw" tab. I also viewed the components of my network with Network Watcher  </p>
+When a virtual machine is created in azure it also creates a virtual network, a virtual NIC, and a Network Security Group. Once the virtual machine was set up I was able to view the VMs general information under the "Overviw" tab. I also viewed the components of my network with Network Watcher.  </p>
 <img src="https://i.imgur.com/J9BB8fA.png" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 
